@@ -53,7 +53,7 @@ class Fonts:
             'W': '𝚆',
             'X': '𝚇',
             'Y': '𝚈',
-            'Z': '𝚉
+            'Z': '𝚉'
         }
         for i, j in style.items():
             text = text.replace(i, j)
